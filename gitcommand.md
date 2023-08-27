@@ -19,10 +19,10 @@ if you are added globally
 
 B: To update the project
 
-git add .
-git commit -m "e.g. update index page"
-git pull ( if you are working in group)
-git push origin main	
+# git add .
+# git commit -m "e.g. update index page"
+#  git pull ( if you are working in group)
+#  git push origin main	
 
 C: To clone project  ( download)
-git clone link
+# git clone link
