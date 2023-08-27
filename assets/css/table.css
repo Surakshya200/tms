@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+nav{
+    background-color: aqua;
+}
+nav ul{
+    list-style-type: none;
+}  
+    
+    
+
+nav li{
+    display: inline-block;
+
+}
+.new-table{
+    width:90%;
+    margin:auto;
+    padding: 1rem;
+    
+}
+table ,th ,td{
+    border: solid;
+    border-collapse: collapse;
+}
+table{
+    width: 100%;
+  line-height: 2D;
+  
+    
+}
+.list{
+    overflow: hidden;
+    padding: 2rem;
+}
+.new{
+    float: left;
+    width: 50%;
+    font-style: italic;
+    background-color: aqua;
+    color:brown;
+}
+ 
+  
+

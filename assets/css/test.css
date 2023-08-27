@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+nav{
+    background-color: aqua;
+}
+
+nav ul{
+    list-style-type: none;
+}
+
+nav li{
+    display: inline-block;
+}
+.table{
+    width: 90%;
+    margin:auto;
+    
+}
+table,th,td{
+    border:solid;
+    border-collapse: collapse;
+}
+table{
+    width:100%;
+    line-height:2D;
+    padding: 2rem;
+
+}

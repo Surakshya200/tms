@@ -1,0 +1,184 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.student {
+    overflow: hidden;
+    padding: 2rem;
+
+}
+
+.abc {
+    float: left;
+    width: 50%;
+    padding: 1rem;
+    background-color: aqua;
+}
+
+.student-img img {
+    width: 50%;
+
+}
+/* second section */
+
+.student2 {
+    overflow: hidden;
+    padding: 2rem;
+}
+
+.efg {
+    float: left;
+    width: 50%;
+    background-color: pink;
+}
+
+.stud-img img {
+    width: 100%;
+    height: 400px;
+    object-fit: contain;
+}
+
+
+/* third section */
+
+.students-main  {
+    overflow: hidden;
+}
+
+.students {
+    float: left;
+    width: 33.33%;
+    padding: 1rem;
+    background-color: antiquewhite;
+}
+
+.students img {
+    width: 100%;
+    height: 300px;
+    border-radius: 50%;
+}
+/* section forth */
+
+.box{
+    overflow: hidden;
+}
+
+.image-item {
+    width: 50%;
+    float: left;
+    padding: 1rem;
+    background-color: yellowgreen;
+}
+
+.image-item-img {
+    width: 100%;
+}
+
+
+/*  */
+.boat-main {
+    overflow: hidden;
+    padding: 2rem;
+
+}
+
+ .boat {
+    padding: 2rem;
+    width: 33.333%;
+    float: left;
+    background-color:brown;
+
+
+}
+/*  */
+
+.main {
+    overflow: hidden;
+
+}
+
+.content {
+    float: left;
+    width: 50%;
+    background-color: salmon;
+}
+
+.Sundar{
+    overflow: hidden;
+}
+.gallery-item{
+    float: left;
+    width: 33.33%;
+    padding: 2rem;
+    background-color: bisque;
+}
+.gallery-item img{
+    width: 100%;
+}
+.sudip{
+    overflow: hidden;
+}
+.picture-item{
+    float: left;
+    width: 33.33%;
+    padding: 2rem;
+}
+
+.picture-item img{
+    width:100%
+}
+.list{
+    overflow: hidden;
+}
+.menue-type{
+    width: 50%;
+    float: left;
+    padding: 1rem;
+    background-color: azure;
+    color: gold;
+}
+.suraj{
+    overflow: hidden;
+}
+.gallary-item{
+    float: left;
+    width:33.33%;
+    padding: 2rem;
+}
+.gallary-item img{
+    width: 100%;
+}
+.contentD{
+    background-color: blueviolet;
+}
+.samikshya{
+    overflow: hidden;
+}
+.girl-img{
+    float: left;
+    width: 33.33%;
+    background-color: palevioletred;
+    font-style:italic;
+    color: green;
+    padding: 2rem;
+}
+
+
+/* responsive design for information section*/
+@media screen and (max-width: 992px) {
+    .students {
+        width: 20%;
+    }
+
+    .student2 {
+        width: 20%;
+    }
+
+
+
+}
+
+
+/* resp
